@@ -1,0 +1,12 @@
+badge_id,badge_name,granted_at,post_id,seq,granted_manually,notification_id,featured_rank
+5,Welcome,2022-01-21 00:25:09 UTC,388492,0,false,2340351,11
+11,First Like,2022-01-21 00:31:28 UTC,388461,0,false,2340425,10
+1,Basic,2022-01-21 20:18:14 UTC,,0,false,2344805,1
+40,First Mention,2022-01-23 13:50:58 UTC,390151,0,false,2352538,8
+15,First Quote,2022-01-24 01:29:34 UTC,391001,0,false,2355693,5
+41,First Emoji,2022-01-27 00:28:37 UTC,393032,0,false,2373344,7
+10,Editor,2022-01-28 00:41:30 UTC,,0,false,2380196,9
+45,Enthusiast,2022-01-31 00:00:00 UTC,,0,false,2393465,4
+42,First Onebox,2022-02-03 03:01:19 UTC,398935,0,false,2414889,2
+36,Appreciated,2022-02-07 16:06:44 UTC,,0,false,2438571,6
+38,Thank You,2022-02-07 16:06:44 UTC,,0,false,2438573,3

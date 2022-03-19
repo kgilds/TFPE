@@ -1,0 +1,4 @@
+post_id,topic_id,post_number,link,name,created_at,updated_at,reminder_at,reminder_last_sent_at,reminder_set_at,auto_delete_preference
+390151,73794,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/1,Find my dailies,2022-01-27 00:39:48 UTC,2022-01-27 13:04:51 UTC,,2022-01-27 13:04:51 UTC,,never
+398763,73805,32,https://wc3.akimbo.com/t/dani-burhop-dailies/73805/32,"",2022-02-05 12:03:39 UTC,2022-02-06 13:04:34 UTC,,2022-02-06 13:04:34 UTC,,never
+403754,60342,412,https://wc3.akimbo.com/t/amber-field-dailies/60342/412,"",2022-02-08 23:51:02 UTC,2022-02-10 13:00:23 UTC,,2022-02-10 13:00:23 UTC,,never

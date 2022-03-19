@@ -1,0 +1,3 @@
+id,auth_token_hash,prev_auth_token_hash,auth_token_seen,client_ip,user_agent,seen_at,rotated_at,created_at,updated_at
+15660,BVtrR...,Cw9t8...,true,2603:9000:b00b:a000:3e7f:6cb5:15b0:b23a,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:96.0) Gecko/20100101 Firefox/96.0,2022-02-13 19:29:47 UTC,2022-02-13 19:29:44 UTC,2022-01-21 00:24:56 UTC,2022-01-21 00:24:56 UTC
+16473,UbFck...,xmNMS...,true,2603:9000:b00b:a000:ac2e:83c7:7fb7:8810,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:96.0) Gecko/20100101 Firefox/96.0,2022-03-01 01:48:36 UTC,2022-03-01 01:48:27 UTC,2022-02-13 21:44:59 UTC,2022-02-13 21:44:59 UTC

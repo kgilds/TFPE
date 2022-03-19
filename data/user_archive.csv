@@ -1,0 +1,605 @@
+topic_title,categories,is_pm,post,like_count,reply_count,url,created_at
+kevingilds: For Kids: Huckleberr...,Start here|Meet your community,No,"For Kids: Huckleberry Finn. I recall reading this in 5th grade and I understood it and it gave me confidence and desire to read more.
+For Adults: Lila An Inquiry into Morals. Provides  useful frame to view change in society.
+For people at work: Linchpin. It helped me to start taking responsibility and making things happen.",3,0,https://wc3.akimbo.com/t/kevingilds-for-kids-huckleberr/73267/1,2022-01-21T00:24:55.166Z
+Welcome to Eastern 9,Cohorts|Eastern 9,No,"Hello, @eastern9. My name is Kevin, and I am located between Tampa and Orlando Florida. I took the Freelance Workshop a couple of years ago and it taught me I can write on a regular basis. I am hoping this workshop gives me the extra structure I need to write more!",4,1,https://wc3.akimbo.com/t/welcome-to-eastern-9/73256/3,2022-01-21T12:03:20.379Z
+Welcome to Eastern 9,Cohorts|Eastern 9,No,"Hey, @danielleburhop  what is your goal for coding? My writing will be (hopefully) encouraging people to use code to conduct analysis for program evaluation.",0,1,https://wc3.akimbo.com/t/welcome-to-eastern-9/73256/19,2022-01-22T12:35:33.280Z
+Welcome to Eastern 9,Cohorts|Eastern 9,No,"Hey @jeffgentry I am looking forward to reading your story. Many years ago, I worked in positions helping at risk youth and aging out of foster care navigate employment opportunities. I currently work at an Area Agency on Aging where I manage our Directed Care program for Veterans and our age range for clients is 32-100.",2,1,https://wc3.akimbo.com/t/welcome-to-eastern-9/73256/20,2022-01-22T12:47:01.578Z
+Welcome to Eastern 9,Cohorts|Eastern 9,No,"Oh small world--I am an MPA graduate! What a  great idea to build community around your idea. I know what you mean about a missing language and the desire to create. I stumbled upon learning R and the language environment built up around me to such that we can create websites and books with it now. 
+
+I look forward to reading your dailies as well! 
+-Kevin",1,0,https://wc3.akimbo.com/t/welcome-to-eastern-9/73256/29,2022-01-23T12:39:03.404Z
+Welcome to Eastern 9,Cohorts|Eastern 9,No,"Hi, Jeff 
+
+My primary goal would be to nudge someone who is thinking about making the plunge into coding but not sure how to go about it. Sometimes a current evaluation process is fine using spreadsheets. However, even then I will have a section on data management practices with spreadsheets--I am opinionated on these items!
+
+I am curious are you going to be diving into the religious aspects of work--ideas such as calling?",0,1,https://wc3.akimbo.com/t/welcome-to-eastern-9/73256/30,2022-01-23T12:49:37.241Z
+Kevin Gilds -Dailies,Dailies,No,"Goals Structure for this book:
+
+Target Audience: Manager or analyst at nonprofit or government agency that is frustrated with their evaluation/data management process and is looking for options. Jumping into tutorials for R and Python is daunting as one may encounter odd terms like ""foo"" and ""bar"". In reality these terms, are place holders but rarely is this explained.   
+
+Identify scenarios where coding may be more beneficial than using a spreadsheet. Acknowledge that using a spreadsheet may be the best option.
+
+Benefits of coding an analysis: 
+
+* Reproducibility 
+* Automation 
+* Git-version control
+* Testing  
+
+
+If the person  chooses to use a spreadsheet, provide some best practices for using spreadsheets.
+
+1. Never touch (alter)  the raw data
+2. Keeping your data tidy in a spreadsheet format.
+
+
+
+@eastern9  @linuxduck",5,0,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/1,2022-01-23T13:50:58.182Z
+Kevin Gilds -Dailies,Dailies,No,Thank you!,0,0,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/5,2022-01-24T01:19:30.482Z
+Kevin Gilds -Dailies,Dailies,No,"Hey, I think this brings up a good point of generational workforce issues, and the skills they will bring to the work force.",0,0,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/6,2022-01-24T01:22:28.500Z
+Dani Burhop - Dailies,Dailies,No,"[quote=""danielleburhop, post:2, topic:73805""]
+My small teaching community of practice was a necessary part of learning to trust myself and my voice, and helped me see both that I could teach others, but also that I had something to say.
+[/quote]
+
+This is so important to recognize and celebrate. Once a month I meet with  evaluators/grant writers. It is priceless time and it is so funny how there is so much common ground!",1,0,https://wc3.akimbo.com/t/dani-burhop-dailies/73805/5,2022-01-24T01:29:34.812Z
+Michelle Bergin - Dailies - Old Magic,Dailies,No,"[quote=""linuxduck, post:5, topic:73241""]
+Ama believes strongly in science. No wishy washy stuff like magic or religion.
+[/quote]
+
+I like the set up here for the conflict between science and magic/religion. I wonder if there is more to explore about why Ama may be torn why so pro science or skeptical of magic/religion. 
+
+I need to catch up on the back story but that is my initial reaction.",0,0,https://wc3.akimbo.com/t/michelle-bergin-dailies-old-magic/73241/6,2022-01-24T11:38:58.474Z
+Kevin Gilds -Dailies,Dailies,No,"2022-01-24
+
+(this is rough but wanted a framework for how I started learning to code)
+
+I recall starting a new job at a nonprofit organization and noted that the organization had a license for SPSS. However, the challenge was that SPSS and  the license  were locked down on a worthless laptop. The cost to re-license SPSS was in the thousands and obtaining a new license did not seem worth the investment. This started my quest for alternatives to high priced statistical software. 
+
+What I did not know at this time was that  nonprofit organizations  have access  powerful data analysis tools. It is open source software and  is not a special program through Tech Soup. R and Python are available for any organization to utilize. In Facebook, and Google utilize both R and Python to analyze data.How many nonprofit organizations are even aware of this or have the capacity to take advantage of these tools?   
+
+I recall downloading opening R and having no idea what to do with it. Here is a screenshot of what one may find when opening R. 
+
+![image|629x361](upload://dwKsZQUraBAf5ZnKn5dSmePpksC.png)
+
+Intimidating at first but you learn to dance with it.....
+
+@eastern9 @linuxduck",3,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/7,2022-01-24T23:58:56.085Z
+Dani Burhop - Dailies,Dailies,No,I love a good framework--thanks for sharing with us!,0,0,https://wc3.akimbo.com/t/dani-burhop-dailies/73805/9,2022-01-25T00:00:59.660Z
+Anyone else writing history/science/math/computing?,Start here|Find the Others,No,"Hello, in the January cohort writing on using data science 'R"" for nonprofit program evaluation.",1,0,https://wc3.akimbo.com/t/anyone-else-writing-history-science-math-computing/65433/23,2022-01-25T01:53:03.302Z
+Michelle Bergin - Dailies - Old Magic,Dailies,No,"[quote=""linuxduck, post:12, topic:73241""]
+Tank said forcefully, “Ha ha ha, if you ever came out as gay, I’d get my brothers John and Jeremiah to beat the gay out of you! Ha ha ha”.
+[/quote]
+That hits",0,0,https://wc3.akimbo.com/t/michelle-bergin-dailies-old-magic/73241/13,2022-01-25T12:01:22.658Z
+Introduction to Beaver,-,Yes,Thank you! I will check back in the next few days if I think I will be able to join you on Friday.,0,0,https://wc3.akimbo.com/t/introduction-to-beaver/74559/2,2022-01-25T22:23:42.882Z
+Kevin Gilds -Dailies,Dailies,No,"2022-01-25
+
+small post tonight thinking about git. 
+
+Knowing and learning [git](https://git-scm.com/) is a superpower. A huge side benefit of learning to code.  
+
+
+@eastern9 @linuxduck",1,2,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/8,2022-01-26T00:31:35.029Z
+Kevin Gilds -Dailies,Dailies,No,And then they learn 'vim'.......... :rofl:,0,2,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/10,2022-01-27T00:28:37.379Z
+Kevin Gilds -Dailies,Dailies,No,"
+Re: Technical Writing:
+
+I found this [writing course](https://developers.google.com/tech-writing/one/active-voice) helpful  when it comes to learning about the Active and Passive Voice with writing. 
+
+I struggle with this but the formula from the course helps!
+
+Active Voice Sentence = actor + verb + target
+Passive Voice Sentence = target + verb + actor
+
+
+@eastern9  @Beaver  @linuxduck",0,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/11,2022-01-27T00:39:26.308Z
+Jeff Gentry - Dailies,Dailies,No,"[quote=""jeffgentry, post:15, topic:73338""]
+“Every text is located within a context and context is king!”
+[/quote]
+
+I loved this quote!  I love the connection to the environment. I am learning to be more sensitive to this as I age as well.",0,1,https://wc3.akimbo.com/t/jeff-gentry-dailies/73338/17,2022-01-27T22:52:25.627Z
+Welcome to Eastern 9,Cohorts|Eastern 9,No,"Hi, @marccarroll the Akimbo format is amazing and like they say show up everyday with something and you will get amazing feedback! The feedback gives you juice to keep showing up!",0,1,https://wc3.akimbo.com/t/welcome-to-eastern-9/73256/42,2022-01-27T23:32:29.422Z
+Welcome to Eastern 9,Cohorts|Eastern 9,No,"@marccarroll, ha and I think we were in the same breakout room yesterday!",0,0,https://wc3.akimbo.com/t/welcome-to-eastern-9/73256/43,2022-01-27T23:36:29.702Z
+Welcome to Eastern 9,Cohorts|Eastern 9,No,"Welcome, I am here for the structure as well. I hope you are able to find it!",0,1,https://wc3.akimbo.com/t/welcome-to-eastern-9/73256/44,2022-01-28T00:17:03.599Z
+Kevin Gilds -Dailies,Dailies,No,"I am finishing up an interim evaluation report and getting antsy because I am out of the comfort of writing code and into the discomfort of boredom with this report.   I becoming a bit more comfortable with the discomfort. I used to find reasons to avoid the writing of words and trying to find a problem to solve with code. The report will ship and back to fun stuff next week. 
+
+ 
+
+@eastern9 @Beaver",4,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/14,2022-01-28T00:41:30.924Z
+Joyce Sullivan - Dailies / 2022 WC4,Dailies,No,I love this and the discussion of process! One thing I hope to convey in my writing is that design matters from data collection >>> through the reporting of the data.,1,1,https://wc3.akimbo.com/t/joyce-sullivan-dailies-2022-wc4/74393/38,2022-01-28T23:47:07.539Z
+Kevin Gilds -Dailies,Dailies,No,"2022-01-28
+
+A quick Friday night note. The book [Teaching Tech Together](https://teachtogether.tech/en/index.html#s:memory) has some useful concepts when teaching code/tech. I enjoy the section on how memory works.",1,0,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/15,2022-01-29T01:47:51.568Z
+Raj Nagappan - Dailies (WIC4),Dailies,No,Always a tough question and great to consider who is this for.  I am going with the approach this is the book that would have been helpful for me at a particular juncture in my career.,1,0,https://wc3.akimbo.com/t/raj-nagappan-dailies-wic4/74551/23,2022-01-29T13:36:25.059Z
+Kevin Gilds -Dailies,Dailies,No,"2022-01-29
+
+This a reference link for the book for sure: https://datascienceatthecommandline.com/2e/",1,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/16,2022-01-29T23:44:43.612Z
+Kevin Gilds -Dailies,Dailies,No,"2022-01-30
+
+A conversation on twitter 
+
+`<blockquote
+ class=""twitter-tweet""><p lang=""en"" dir=""ltr"">I don’t think 
+people realize how many process solutions have been generated by fast 
+prototyping without permission.</p>&mdash; 🤷🏻‍♀️ Cᴀsᴇʏ 
+(@kccarrell) <a 
+href=""https://twitter.com/kccarrell/status/1487426078071214085?ref_src=twsrc%5Etfw"">January
+ 29, 2022</a></blockquote>
+<script async src=""https://platform.twitter.com/widgets.js"" 
+charset=""utf-8""></script>`
+
+My reply was that this has been my career strategy--but mostly job survival. My full time jobs have been in social service and  I learned to code and manage data out of a need to my job better. If I did not figure out how to automate key tasks from  one position; I am sure I would not have lasted.  I get a sense of empowerment from coding and I to help others obtain that empowerment to. 
+
+@eastern9  @Beaver  @linuxduck",1,0,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/17,2022-01-31T03:31:28.437Z
+Kevin Gilds -Dailies,Dailies,No,"2022-01-31
+
+My last post was about empowerment with computers. 
+
+`<blockquote
+ class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Software people 
+have NO idea how much of non-tech office work is copying and pasting 
+data across software applications that aren&#39;t integrated but 
+badly need to be. <a 
+href=""https://t.co/17inpH8l6y"">https://t.co/17inpH8l6y</a></p>&mdash;
+ Alex Kyllo (@alexkyllo) <a 
+href=""https://twitter.com/alexkyllo/status/1479875965023322112?ref_src=twsrc%5Etfw"">January
+ 8, 2022</a></blockquote>
+<script async src=""https://platform.twitter.com/widgets.js"" 
+charset=""utf-8""></script>`
+
+Depending how far one is down in the hierarchy it can often be worse. You have staff trying to serve people and they are being drowned in data. They come up with solutions that sub-optimal that provide them with busy work. Instead of calling and helping people they are re-writing addresses that should have easily come out of the database. ""I said no we were not doing that even if I have to use 'vlookup in a spreadsheet! 
+ 
+@eastern9 @Beaver",0,2,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/18,2022-02-01T00:51:22.419Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-01 
+
+To continue with the twitter threads and tired brain. This tweet hit me 
+
+`<blockquote
+ class=""twitter-tweet""><p lang=""en"" dir=""ltr"">Programming is 
+how you code software. Documentation is how you code a business. Pretty 
+sure I first heard this gem from the brilliant <a 
+href=""https://twitter.com/AngeBassa?ref_src=twsrc%5Etfw"">@AngeBassa</a>
+ 🙌🙌 <a 
+href=""https://t.co/4VJTY9tb6Y"">https://t.co/4VJTY9tb6Y</a></p>&mdash;
+ Tanya Cashorali (@tanyacash21) <a 
+href=""https://twitter.com/tanyacash21/status/1488517954497089544?ref_src=twsrc%5Etfw"">February
+ 1, 2022</a></blockquote>
+<script async src=""https://platform.twitter.com/widgets.js"" 
+charset=""utf-8""></script>`
+
+Documentation speaks to not just how to do something but is part of the design process on how this is to be built. 
+
+Design and documentation >>>>>>>>>> I think there is a connection here
+
+@eastern9  @Beaver",1,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/20,2022-02-02T02:31:35.692Z
+Kevin Gilds -Dailies,Dailies,No,"Spreadsheets-the good, the bad, and ugly. I can't wish them away but simply offer suggestions on how to work with them better. 
+
+This article is a good starting point for topic of spreadsheets--that is if you must use a spreadsheet do it this way.
+https://github.com/kbroman/Paper_DataOrg/blob/master/manuscript.pdf
+
+
+
+I have a story/example for each element/point
+
+* Be consistent
+* Choose good names for things--
+* Dates as YYYY-MM-DD
+* No empty cells
+* Put just one thing in a cell
+* Make it rectangle--
+* Create a data dictionary
+* No calculations in the raw data
+* No font colors or highlighting as data. 
+* Make backups
+* Use Data validation--using drop downs let one be consistent. 
+* Save the data in plain text. 
+
+@eastern9  @Beaver",3,3,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/21,2022-02-03T03:01:18.752Z
+Kevin Gilds -Dailies,Dailies,No,"> Create a spreadsheet that breaks all the rules!
+
+Something to think about is use the story below has an example and create the wrong spreadsheet. 
+
+s. 
+
+Yesterday I wrote about best practices with spreadsheets. When I finished up, I had a flashback trying to parse and make sense of a spreadsheet that defied all of the conventions.
+
+The highlights of this spreadsheet. 
+
+1. Colors conveyed an outcome
+
+2. Dates were in many formats--of course none in  YYYY-MM-DD. 
+
+3. And My personal favorite is when someone puts more than one value in a cell.  
+
+
+@eastern9  @Beaver",1,0,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/24,2022-02-04T02:45:07.753Z
+Kevin Gilds -Dailies,Dailies,No,"Hey, Jeff if you follow the conventions presented in that document; it can make your life easier. If I must use a spreadsheet,  I will structure it so I can run pivot tables from it.",0,0,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/25,2022-02-04T02:53:11.869Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-04
+
+Theme that keeps emerging is good documentation
+A useful guide for data management can be found [here](https://cghlewis.github.io/mpsi-data-training/training_00.html)
+
+The FAIR Principles for scientific data management and stewardship are provided. I think these principles should apply in most contexts. 
+
+1. Findable: The move towards automation means metadata needs good documentation and machine readable.
+
+2. Accessible: Data is available in a repository or though a request system
+
+3. Interoperable: Humans and machines need to be able to read and understand the data. There should not be a barrier to the data in terms of a software license. Documentation should pair with the data to make it useful. 
+
+
+4. Reusable: Good documentation on the context of the data and the data collection and clear license for data use.",0,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/27,2022-02-05T03:12:07.562Z
+Kevin Gilds -Dailies,Dailies,No,Thank you; you have an interesting niche to work with and I look forward to reading and learning from your experience.,1,0,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/28,2022-02-05T11:59:28.952Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-05
+
+A big challenge with starting programming can be the install process of the tools. 
+
+Below are resources to help a person test drive a coding approach. 
+
+* [RStudio](https://www.rstudio.com/products/cloud/)
+	* Mainly `R` but one can use other languages such as 'Python' and 'SQL'  
+
+* [Google Colab](https://colab.research.google.com/)
+	* Mainly `Python` but on can use `R` as well. 
+
+* [Kaggle](https://www.kaggle.com/)
+
+@eastern9 @Beaver",2,2,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/29,2022-02-06T02:41:38.674Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-06
+
+From here: https://speakerdeck.com/jennybc/how-to-name-files?slide=4
+
+One of my favorite hacks has been to have a consistent filing naming scheme. 
+
+Below are some guidelines to think about. 
+
+File Names:
+1. machine readable
+2. human readable
+3. logical default ordering
+
+
+
+How to make it machine readable: Avoid spaces at all costs and purposeful use of delimiters. ie  ""-"" ""_""
+Making it machine readable helps you search and filter files.  Add specific examples.
+
+Human readable: content is king. See wikipedia article on slugs https://en.wikipedia.org/wiki/Clean_URL
+For additional human readable conventions: See this post from Emily Riederer. https://emilyriederer.netlify.app/post/column-name-contracts/. Column names can serve as a contract between the data producer and data consumer to help ensure understanding of the data. 
+
+Logical default ordering: Use numbers and if you use a dates use ISO 8601. Make your life easier. 
+
+@eastern9  @Beaver",2,2,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/32,2022-02-07T03:00:23.350Z
+Kevin Gilds -Dailies,Dailies,No,"Thank you @kimdonlan. These questions were helpful to think about. To learn to code, I needed a problem to solve; I need context to apply tools. My experience has been that software projects/data analysis work better when you have a content expert who can get into the mix of content and analysis.  The content expert does not have to be an expert at coding  but know enough to apply some concepts in a project.  
+  
+My purpose  has been to give encouragement to those that may have the itch but not sure where or how to start or to hire me to do it. You also want people educated in these concepts to be better consumers of data products and to ask good questions. How was this data validated? Can we reproduce the results if we complete the analysis again. 
+
+Hope that helps!",1,0,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/34,2022-02-07T11:21:54.808Z
+Kevin Gilds -Dailies,Dailies,No,"Thank you!  The book will be in the form of a website similar to this this-- https://mastering-shiny.org/
+
+Thank you for pointing out that the idea for exercises--it opened my mind to some possibilities.",2,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/35,2022-02-07T11:26:58.703Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-07
+
+I have been thinking about audience today and increasingly like the idea of adding exercises [thank you  @danielleburhop](https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/31?u=kevingilds). An exercise of reading a directory of csv files with good file names and bad file names :slight_smile: 
+
+One  considerations came to mind as well. It may be very challenging for one employee to make this change if no one else is doing it. Some things to think about--building and helping people find community or the others. 
+
+@eastern9  @Beaver",0,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/38,2022-02-08T01:57:47.899Z
+Michelle Bergin - Dailies - Old Magic,Dailies,No,This looks great; I am certain my son would love this.,1,0,https://wc3.akimbo.com/t/michelle-bergin-dailies-old-magic/73241/78,2022-02-08T11:31:53.431Z
+Tom Nealley - Dailes,Dailies,No,"
+I love the spirit to this line
+[quote=""thomasnealley, post:201, topic:60982""]
+This innovation is relevant and desired whether a highly resourced church, or not.
+[/quote]
+
+Funny how the first innovation may be the toughest.",0,0,https://wc3.akimbo.com/t/tom-nealley-dailes/60982/227,2022-02-08T11:40:56.116Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-08
+
+_Data Connections_
+
+How does your data connect to each other and how do you connect them? 
+
+_Scenario_
+ Here is a report with some data we need and here is another report with the other part of the data we need. Of course, we can't query the database to get the report we need that would make too much sense. *At least the two reports have unique key values for matching* 
+
+Let us take valuable time and take the data from one spreadsheet and manually enter into the other spreadsheet. 
+
+_Kevin_ ""we are not doing that...................""  
+
+@eastern9  @Beaver",2,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/40,2022-02-09T01:15:57.440Z
+Win Treese - WIC3 Dailies (History of random numbers),Dailies,No,"[quote=""wintreese, post:287, topic:60104""]
+That’s not far off the general idea I had about thing, but I think it clarifies for me how much (better yet, how little) I need to do with the big picture of randomness.
+[/quote]
+
+I think there is a ton of content here. The overall post made me think of the people in my life who can't deal with randomness. You may want to think about how people use stories to deal with randomness?",1,1,https://wc3.akimbo.com/t/win-treese-wic3-dailies-history-of-random-numbers/60104/289,2022-02-09T01:33:17.293Z
+Amber Field - Dailies,Dailies,No,"Funny how the people part is the hardest part. I read this post and shortly after I read this post https://counting.substack.com/p/reflecting-on-how-system-complexity?utm_medium=email&utm_campaign=cta
+
+Randy's point was different departments have their own needs and hence agenda--
+
+Bringing everything together is tough!",1,1,https://wc3.akimbo.com/t/amber-field-dailies/60342/419,2022-02-09T01:48:22.240Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-09
+
+https://r4ds.had.co.nz/introduction.html
+
+![image|517x190](upload://wOh4TFMSQNLtLc3VvNzrzlEhBSf.png)
+
+
+I though about this image today as I was preparing and Account Receivable report today. Mostly, I was pondering why I don't have a script for it...but I digress.
+
+I had to clean up the report in sheets--part of a key value is in a string so I extract the string use a vlookup to find match client names. Spent a few minutes looking up a function to recall which ones combines strings not just values. The data is now transformed  and I could visualize it or I could create model or in my case run a pivot table.  Even though this only takes about 15 minutes--it is a waste of time! It should be in a script so anyone could generate this report.
+
+I am happy I looked this diagram up because I liked the discussion centered around the diagram. 
+
+1. Tidy the data--putting the data in a useful structure
+
+* 1. Each column is a variable
+* 2. Each row is an observation 
+Having your data in a tidy format lets you focus on your question.
+
+2. Transform the data
+* Filtering the data, adding new variables, summary statistics
+
+3. Visualize your data @thomasnealley --the quote below blew my mind.  
+> A good visualisation might also hint that you’re asking the wrong question, or you need to collect different data. -Wickham & Grolemund  
+  This quote hits in my experience.
+
+4. Modeling  
+* A model can complement a visual and they scale were a visual may not.
+
+A good point here is that visualization and modeling have pros and cons, and the cycle reflects that an good analysis will cycle numerous times between them. 
+
+The visuals and models help you communicate to your audience. 
+
+@eastern9  @Beaver",4,2,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/41,2022-02-10T00:27:36.306Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-10
+
+Learning to code is a skill. I recall it being awkward and uncomfortable to start. 
+
+* Empathy for a new coder: How can I bring community to this for people who want to take the plunge?
+It would be very challenging to be a single employee trying to implement this change? This person would have to bring a proof of concept really fast that solved a problem. 
+
+@eastern9  @Beaver",1,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/43,2022-02-11T01:42:33.485Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-11
+
+And then there was SQL. Actually I need to bring this language up for discussion at some point.
+
+This post will be about the importance of content and technical skills. 
+
+See this article: https://blog.devgenius.io/the-data-scientist-of-the-future-according-to-google-4d8545b37bdc
+
+> Domain Knowledge will rule the world
+
+The author holds that an understanding of the inputs and outputs of a model will be key and MBA students will be learning SQL. 
+
+I am biased toward the belief that domain knowledge is critical to help you understand the data. I want to believe this and It is my experience as well that context matters. I have strong diversion against completing visualizations or machine models if I don't understand the context of the data.  
+
+@eastern9  @Beaver",2,3,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/44,2022-02-12T02:38:31.038Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-12
+
+A common recommendation is for new comers to learn SQL. I think MS Access would be okay and [Sqlite](https://sqlite.org/index.html) would be a good staring point as well.  I don't disagree and a critical skill to learn is how to 'join' data. Also the concept of normalizing data is related to tidy data. 
+
+@eastern9  @Beaver",0,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/47,2022-02-13T02:57:25.884Z
+Kevin Gilds -Dailies,Dailies,No,"Thanks Kim,
+
+That is a good exercise! Getting the idea out one's head and confront reality--both good and areas for improvement.",0,0,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/48,2022-02-13T13:45:23.924Z
+Kevin Gilds -Dailies,Dailies,No,"Thanks Tom,
+
+I know what you mean by this
+
+[quote=""thomasnealley, post:46, topic:73794""]
+They are run by data analytics people, and while they get input from ‘church oriented’ people, the end products clearly devalue their perspective in favor of presenting a data-driven perspective.
+[/quote]
+
+I have experienced this often in the nonprofit sector. 
+
+Have you heard of the phrase eating your own dog food in software development? The idea that the builder actually uses the tools and can anticipate what others need and make adjustments. The builder can build products with empathy for the end users. 
+
+The article I posted is a close cousin to this concept and most likely there is some overlap. The content expert will know what variables make good predictions on a given outcome. They will know what data transformations to make a mode more accurate in predictions. They would have a sense if a model was rubbish. 
+
+Hope that helps--the question helped me clarify some items in my mind.",1,0,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/49,2022-02-13T14:05:07.453Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-13
+
+I was thinking a theme of this book is about  learning to communicate with your computer or learning to craft your tool (computer) to your bidding--hopefully for good!
+
+@eastern9  @Beaver",0,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/50,2022-02-13T14:15:21.315Z
+Dani Burhop - Dailies,Dailies,No,"[quote=""danielleburhop, post:56, topic:73805""]
+ethical public administrators. (Good grief.)
+[/quote]
+
+Love that!",1,0,https://wc3.akimbo.com/t/dani-burhop-dailies/73805/58,2022-02-13T14:32:09.694Z
+Amber Field - Dailies,Dailies,No,Love that concept of knowing why something worked.,1,0,https://wc3.akimbo.com/t/amber-field-dailies/60342/445,2022-02-13T16:16:42.697Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-14
+
+This is a very helpful class on learning Python https://www.py4e.com/
+
+What I liked about the author's approach is that he indicated computers are not very smart. You have to be literal with them. This is what I meant the other day when mentioned learning to craft your tool. Don't view the output of the  computer as magic but as pure logic executed. However-it may not be the logic you want but it is the logic someone programmed. 
+
+I like this line of reasoning but we are venturing into Zen and the *Are of Motorcycle Maintenance* territory. 
+
+@eastern9  @Beaver",3,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/51,2022-02-15T02:42:55.222Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-15
+
+Important concepts to consider:
+https://evalsp22.classes.andrewheiss.com/content/03-content/
+
+@danielleburhop more of an FYI but  this is a link to Andrew Heiss who has his public administration classes online. https://www.andrewheiss.com/teaching/ 
+
+Reproducibility: Do you get the same numbers if you run the analysis again. It is important in science and  equally important in business. 
+
+In the same general idea: What happens if a client determines they missed entering 100 surveys. How much pain will it be to re-run an analysis. How much effort will you have to undertake to recreate the analysis. 
+
+How easy is it to check and show your work and how to came to a conclusion?
+
+Your computer crashes? How long before you can be up and running again? Hello git and Digital Ocean
+
+How easy is for you to modify or change an assumption in your data that may impact your analysis? 
+
+@eastern9  @Beaver",1,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/52,2022-02-16T01:55:54.575Z
+Jeff Gentry - Dailies,Dailies,No,This was an insightful piece.,0,0,https://wc3.akimbo.com/t/jeff-gentry-dailies/73338/62,2022-02-16T11:00:39.775Z
+Titia Praamsma - Dailies,Dailies,No,The first sentence drew me in.  Amazing job setting the scene and the interplay of humor makes it a great read.,1,0,https://wc3.akimbo.com/t/titia-praamsma-dailies/61009/1039,2022-02-16T11:15:58.851Z
+Kim Donlan- Brand/Messaging Strategy Workbook Dailies,Dailies,No,"Thinking out loud one story case scenario per chapter seems correct but I am not sure you will know until the end and how the puzzle fits together. 
+
+Living the fax life--at least they can be converted to email.",0,1,https://wc3.akimbo.com/t/kim-donlan-brand-messaging-strategy-workbook-dailies/74442/59,2022-02-16T11:23:36.965Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-16.
+
+Exhausted today but here is what I blogged
+
+This is [podcast](https://www.akimbo.link/blog/s-10-e-16-the-worst-ceo) is a good reminder to keep long term focus and not caught up in grind.",0,0,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/53,2022-02-17T01:03:02.268Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-17
+
+Good post here https://stephanieevergreen.com/when-you-shouldnt-hire-a-data-viz-consultant/
+
+I think it applies to all consultant opportunities.",1,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/54,2022-02-17T11:15:32.087Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-17
+
+A loose connection with my book but it is what on my mind. 
+
+Today I had to be the intermediary between partnering agencies that were talking past each other in solving a data problem . My observation was that there was no common language between the two and I had the opportunity to be the bridge between the two. 
+
+The no common language theme made me think of this book:  https://www.amazon.com/Trying-Hard-Good-Enough-Anniversary/dp/1516971620/ref=asc_df_1516971620/?tag=hyprod-20&linkCode=df0&hvadid=312111868709&hvpos=&hvnetw=g&hvrand=7996590488522633806&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9012161&hvtargid=pla-473618412914&psc=1
+
+A major theme of this book is using common language in the evaluation process. 
+
+I handled this well by doing the following 
+
+1. Be nice
+2. Assert the assumptions instead of accusations 
+3. Provide reproducible example 
+4. Layout next steps. 
+
+@eastern9  @Beaver",2,2,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/55,2022-02-18T01:52:38.611Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-18
+
+I code alone but some of the concepts hit in other context especially learning models stand out in this report https://www.catharsisinsight.com/_files/ugd/fce7f8_2a41aa82670f4f08a3e403d196bcc341.pdf
+
+
+My favorite recommendation include: 
+
+1. Reward documentation!
+2. Involve people in how their success is measured
+3. Encourage developmental feedback
+
+@eastern9  @Beaver",2,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/57,2022-02-19T02:40:25.070Z
+Any interest in an @beaver Zoom?,-,Yes,I should be able to make it.,0,0,https://wc3.akimbo.com/t/any-interest-in-an-beaver-zoom/72310/54,2022-02-20T01:36:20.558Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-19
+
+Order of operations--the order of your calculations matters when computing a math problem.
+
+Order of operations also matter with computers as well.  I had to do a near complete re-install of Pop-Os last week and had to reinstall some programs. I could not get VS code to recognize Docker.  I was searching and searching for what steps I missed and had a strong hunch is was about user permission. 
+
+I determined I had updated this in Docker after installing VS code. So I Uninstalled VS code and did a quick reinstall and now everything is working as expected. 
+
+Maybe this will bridge somewhere but I suspect it aligns with thinking like or communicating effectively with your computer.",1,2,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/58,2022-02-20T01:49:53.932Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-20
+
+Very tired today and thankful for this article to chew on https://vickiboykis.com/2022/02/21/on-owning-a-software-problem/
+
+What makes good craftsmanship in data science or analysis is the topic at hand. Vicki argues that in a good analysis a sense of ownership is apparent. 
+
+> A good developer cares about the code they’re putting out into the world not only because it has to work for them, but because their code [will spend most of its time being read and implemented and worked on by others](https://vickiboykis.com/2021/11/07/the-programmers-brain-in-the-lands-of-exploration-and-production/), and as developers, we want to care about those people, too
+
+My spin is that I want the product/analysis to work for the subject matter expert who can recognize nuance. 
+
+This conversation is making me think of the book _Football Dreams_ about a kid who just hopes another former offensive lineman recognizes the work the detail. 
+
+@eastern9  @Beaver",2,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/61,2022-02-21T02:44:38.209Z
+Kevin Gilds -Dailies,Dailies,No,That is awesome! Removing obstacles and helping people see what is possible is so important.,0,0,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/62,2022-02-21T02:54:18.571Z
+Jeff Gentry - Kindlings,Kindlings|WC4 Kindling Responses,No,"Hey, I here you on the staying too long at a place. Have you read _The  Dip_ by Seth? He has different analogies. I seem to like the cliff. :rofl:",1,1,https://wc3.akimbo.com/t/jeff-gentry-kindlings/76259/32,2022-02-21T02:58:50.321Z
+Amber Field - Dailies,Dailies,No,My two cents is that you seamlessly established credibility and established your motivation for the book. And most importantly it was engaging!,2,1,https://wc3.akimbo.com/t/amber-field-dailies/60342/497,2022-02-21T03:04:53.318Z
+Tom Nealley - Dailes,Dailies,No,"[quote=""thomasnealley, post:244, topic:60982""]
+Often the only thing we have taught people is to think that they are right or that they are wrong. We’ve either mandated things or forbidden them. But we haven’t helped people to enter the narrow and dangerous path of true wisdom. On wisdoms’ path we take the risk of making mistakes. On this path we risk being wrong. That is how wisdom is gained.”
+[/quote]
+
+Insightful items here-keep at it.",1,0,https://wc3.akimbo.com/t/tom-nealley-dailes/60982/246,2022-02-21T03:10:38.547Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-21
+
+Random note: My son and I have a 366 day streak on Duolingo. Honestly we mostly just speak to each in the basics of Spanish but it is a foundation. That is what I hope to accomplish here a  solid foundation to build the practice of writing. I write when I don't want to, I write when I am tired, I write when I am grouchy. What I have noticed is that, I have moved from writing a sentence or just posting a link to writing just a little bit more about that article.  
+
+I need and would like to incorporate more stories to weave in with the concepts I am going to be talking about.",1,2,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/63,2022-02-22T01:49:59.558Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-22
+
+Here is an article to chew on @thomasnealley http://mcnamarafallacy.com/
+
+The subtitle is _measurement is not understanding_
+
+Can we find the balance between completely  data driven and going solely on gut? 
+
+Have you seen this  _Office_ episode 
+
+https://youtu.be/DOW_kPzY_JY
+
+> The machine knows 
+
+
+
+
+It is precarious not to ask questions of a measurement. This is the hard part!
+
+Some questions: 
+
+How does the the measurement fit your story of the situation?
+
+How does this measurement contradict your understanding of the situation?
+
+@eastern9  @Beaver",1,2,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/65,2022-02-23T01:18:06.971Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-23
+
+https://twitter.com/ValentinUmbach/status/1496513264192299015
+
+Know your audience! Some will  want free reign of their data most want to be guided on what things mean. This is where data visualization  can shed new perspectives on data. On suggestion for trainers using R is show new users how to use [ggplot2](https://ggplot2.tidyverse.org/). It is fun and you can customize to your hearts content. 
+ 
+
+@eastern9  @Beaver",0,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/66,2022-02-24T01:59:13.281Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-24
+
+A fun conference tonight https://datamishapsnight.com/agenda-2022/
+
+
+Fun to hear stories of well established data professionals and mistakes that can be made. 
+
+Who amongst us have not wiped out a database or crashed a system at one point.
+
+Wrong Spelling of a variable name
+Bad file names. 
+A cp command that wipes out an entire directory. 
+
+@Beaver @eastern9",1,2,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/68,2022-02-25T02:54:33.506Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-25
+
+_The spreadsheet whisperer_ I don't prefer them and would rather not but if I am forced to I will help others.  
+
+A vendor I work with sent me a locked spreadsheet for testing--(locked can't see or change the formula they are using--ick).    Note open up a locked spreadsheet in Google Sheets and you can eliminate that nonsense. The spreadsheet had a variance of $667 from an expected value
+
+
+
+Anyway show your work, indicate what you expected to happen and what actually happened. Find a good use case that can be reproduced. I learned these principals from coding and applied to fixing a spreadsheet. 
+
+@eastern9  @Beaver",0,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/70,2022-02-26T02:59:09.463Z
+Win Treese - WIC3 Dailies (History of random numbers),Dailies,No,I love  this 'frame' around grammar. It is useful.,0,0,https://wc3.akimbo.com/t/win-treese-wic3-dailies-history-of-random-numbers/60104/327,2022-02-26T12:40:45.686Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-26
+
+Yesterday, I wrote about the importance of showing your work. R has a feature called Rmarkdown that lets you intermingle narrative and code.  It lets you show your work and explain to your readers what you are doing--even if the only reader is yourself. 
+
+Here is an example: https://rpubs.com/kgilds/871252 document. 
+
+@Beaver  @eastern9",0,1,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/71,2022-02-27T02:44:25.237Z
+Kevin Gilds -Dailies,Dailies,No,"2022-02-27
+
+Yesterday, I write about showing your work with Rmarkdown documents. Another concept I want to explore is testing. I learned testing late but I think with the [Pointblank](https://rich-iannone.github.io/pointblank/index.html) package one could introduce it earlier. I am not sure where but this package is  useful in pragmatic ways.  The Pointblank package makes is easy to test assumptions about your data and will warn you about issues or in some cases stop the processing of the data.
+
+Duplicate values is a common mistake and I have not figured out how to match them the point of entry. But I want to catch and address them early in the data pipeline. After the data is downloaded from Qualtrics; it runs through an initial cleaning function but before the next step in the pipeline it goes through validation. 
+
+There are functions to keep duplicate values out of the next step of the pipleline but I want to be proactive and say ""hey there is an issue here""
+
+
+Below is script to  test for duplicates if the id, site and time are all the same, 
+```r
+df %>%
+pointblank::rows_distinct(vars(id, site, time), actions =  pointblank::warn_on_fail()) %>%   
+interrogate()
+
+``` 
+If it it was a critical flaw; I could change to stop_on_fail. 
+
+I think I could introduce right after how to use basic functions and what a package library is.
+
+@Beaver  @eastern9",0,0,https://wc3.akimbo.com/t/kevin-gilds-dailies/73794/72,2022-02-28T02:32:44.804Z
